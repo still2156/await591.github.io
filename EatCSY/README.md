@@ -18,3 +18,5 @@ Github Page:https://arcxingye.github.io/EatKano/index.html
 ## Update log
 
 #2022 // 1 // 24 // 23:19 // 修改点击音效音量大小
+
+#2022 // 1 // 24 // 23:32 // 修改点击音效素材内容
