@@ -14,3 +14,7 @@ _🦌 网页小游戏 🥛_
 线上版本:https://xingye.me/game/eatkano/index.php
 
 Github Page:https://arcxingye.github.io/EatKano/index.html
+
+## Update log
+
+# 2021 // 1 // 24 // 23:19 // 修改点击音效音量大小
