@@ -9,13 +9,13 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉催逝员（修改于EatKano）
 
-链接:https://await591.github.io/EatCSY/index.html
+链接：https://await591.github.io/EatCSY/index.html
 
 ## 原项目
 
-线上版本:https://xingye.me/game/eatkano/index.php
+线上版本：https://xingye.me/game/eatkano/index.php
 
-Github Page:https://arcxingye.github.io/EatKano/index.html
+Github Page：https://arcxingye.github.io/EatKano/index.html
 
 ## Update log
 
