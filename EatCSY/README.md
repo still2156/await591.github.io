@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/Await591/await591.github.io/tree/main/EatCSY/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+</p>
+<div align="center">
+
 # 吃掉催逝员
 
 _🦌 网页小游戏 🥛_
