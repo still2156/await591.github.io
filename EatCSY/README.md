@@ -18,9 +18,9 @@ _🦌 网页小游戏 🥛_
 
 ## 原项目
 
-线上版本：https://xingye.me/game/eatkano/index.php
-
-Github Page：https://arcxingye.github.io/EatKano/index.html
+[线上版本](https://xingye.me/game/eatkano/index.php)
+|
+[Github Page](https://arcxingye.github.io/EatKano/index.html)
 
 ## Update log
 
