@@ -11,6 +11,8 @@ _🦌 网页小游戏 🥛_
 
 链接：https://await591.github.io/EatCSY/index.html
 
+游戏初衷：仅仅是为了学习HTML,有人玩的话，我就更新下去,没人玩的话,要么留着当做学习经历,要么删库就当什么也没发生
+
 ## 原项目
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
