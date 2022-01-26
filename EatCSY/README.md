@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://await591.github.io/EatCSY/"><img src="https://github.com/Await591/await591.github.io/tree/main/EatCSY/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="吃掉催逝员"></a>
-</p>
-<div align="center">
-
 # 吃掉催逝员
 
 _🦌 网页小游戏 🥛_
@@ -29,6 +24,8 @@ _🦌 网页小游戏 🥛_
 #2022 // 1 // 24 // 23:32 // 修改点击音效素材内容
 
 #2022 // 1 // 25 // 14:30 // 修改开幕字体大小/添加改前与改后开源项目跳转链接
+
+#2022 // 1 // 26 // 15:00 // 跟随原作者更新（添加:点击前与点击后的素材内容替换的选项/电脑端键盘操控）
 
 ## 需要反馈?
 
